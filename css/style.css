@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+.recipe {
+    color: white;
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-weight: 500;
+    border: 2px solid green;
+    padding: 10px;
+    width:  150px;
+    background-color: green;
+    border-radius: 10px;
+}
+
+#titling {
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    height: auto;
+    border: 2px solid red;
+}
